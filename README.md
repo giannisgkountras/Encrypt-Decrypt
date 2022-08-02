@@ -32,7 +32,7 @@ The progam decrypts it and prints the original text.
 
 ## **In order to run the program**
 
-1) Make sure you have *java* installed. You can check using: ```java -vesrion```
+1) Make sure you have *java* installed. You can check using: ```java -version```
 
       *If not installed you can download and install it from here: https://www.oracle.com/java/technologies/downloads/*
 
